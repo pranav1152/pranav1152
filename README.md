@@ -19,10 +19,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh/)
   - 📝 &nbsp; Do Checkout my [Resume](https://drive.google.com/file/d/1gWB-xl8WzoP76Y2dplRUKnN9sWLtm5sq/view)
 
-<br>
-
-<br>
-
 ### 🚀Languages And Tools:
 
   <a href="https://www.cplusplus.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/1.Cplusplus/cplusplus-plain.svg" alt="C++" height="38px"/> </a>
