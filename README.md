@@ -45,7 +45,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 ### ⚙️ GitHub Analytics:
 
   <p align="center">
-  <a href="https://github.com/pranav918">
+  <a href="https://github.com/pranav1152">
     <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=pranav1152&count_private=true&show_icons=true&theme=vue-dark&count_private=true&hide=prs,contribs"/>  &nbsp; &nbsp;
     <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav1152&layout=compact&theme=vue-dark"/>
   </a>
@@ -70,20 +70,3 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   [![StackOverflow Badge](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13742657/pranav-deshmukh)](https://stackoverflow.com/users/13742657/pranav-deshmukh) &nbsp; &nbsp;
   [![Medium Badge](https://img.shields.io/badge/-medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@pranavdeshmukh918)](https://medium.com/@pranavdeshmukh918) &nbsp; &nbsp;
   [![Resume Badge](https://img.shields.io/badge/-Resume-E4405F?style=for-the-badge&logo=electron&logoColor=white&link=https://drive.google.com/file/d/1gWB-xl8WzoP76Y2dplRUKnN9sWLtm5sq/view)](https://drive.google.com/file/d/1gWB-xl8WzoP76Y2dplRUKnN9sWLtm5sq/view) &nbsp; &nbsp;
-
-
-
-<!--
-**pranav1152/pranav1152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
