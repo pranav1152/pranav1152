@@ -3,8 +3,6 @@
 
 
 I am a versatilist and easily adapt to different hats (Web Developer 🕸️, App Developer 📱 or beginner level ML Engineer 🤖) depending on what the project requires💡. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/cool.gif" width="500" height="320"/>
   
