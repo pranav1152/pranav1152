@@ -31,14 +31,9 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   <a href="https://firebase.google.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/8.Firebase/firebase-plain.svg" alt="Firebase" height ="40px"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/9.Android/android-plain.svg"> </a>
   <a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.Javascript/javascript-plain.svg"></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="TypeScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.1Typescript/typescript-plain.svg"></a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/14.Nodejs/nodejs-plain-wordmark.svg" align="left" alt="nodeJS" height='40px'/> </a>
   <a href="https://reactjs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/15.React/react-original.svg" align="left" alt="React" height='40px'/> </a>
-  </br>
-  <p align="center">
-    <a href="https://angular.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/16.Angular/angularjs-plain.svg" align="left" alt="Angular" height='40px'/> </a>
-    <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/17.Docker/docker-plain.svg" align="left" alt="Docker" height='40px'/> </a>
-  </p>
+  <a href="https://angular.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/16.Angular/angularjs-plain.svg" align="left" alt="Angular" height='40px'/> </a>
 </br>
 
 <br> 
