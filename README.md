@@ -21,7 +21,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 ### 🚀Languages And Tools:
 
   <a href="https://www.cplusplus.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/1.Cplusplus/cplusplus-plain.svg" alt="C++" height="40px"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/2.Java/java-plain.svg" alt="Java" height="40px"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/2.Java/java-plain.svg" alt="Java" height="40px"/> </a>
   <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/3.Kotlin/kotlin-original.svg" alt="Kotlin" height="40px"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/3.1Python/python-original.svg" alt="Python" height="40px"/> </a>
   <a href="https://golang.org/" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/3.2Go/go-original.svg" alt="Go" height="40px"/> </a>
@@ -34,8 +34,11 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   <a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="TypeScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.1Typescript/typescript-plain.svg"></a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/14.Nodejs/nodejs-plain-wordmark.svg" align="left" alt="nodeJS" height='40px'/> </a>
   <a href="https://reactjs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/15.React/react-original.svg" align="left" alt="React" height='40px'/> </a>
-  <a href="https://angular.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/16.Angular/angularjs-plain.svg" align="left" alt="Angular" height='40px'/> </a>
-  <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/17.Docker/docker-plain.svg" align="left" alt="Docker" height='40px'/> </a>
+  </br>
+  <p align="center">
+    <a href="https://angular.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/16.Angular/angularjs-plain.svg" align="left" alt="Angular" height='40px'/> </a>
+    <a href="https://www.docker.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/17.Docker/docker-plain.svg" align="left" alt="Docker" height='40px'/> </a>
+  </p>
 </br>
 
 <br> 
