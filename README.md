@@ -1,9 +1,25 @@
+<!---------------------------------------------------------------------------------------------
+--------------------------------------------HEADING--------------------------------------------
+----------------------------------------------------------------------------------------------->
+
+
 <h1 align="center">Hi, <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Hi.gif" width="40px" /> I'm Pranav</h1>
 <h3 align="center">A Passionate Software Developer who loves Competitive Programming</h3>
 
 
+<!---------------------------------------------------------------------------------------------
+--------------------------------------------ABOUT--------------------------------------------
+----------------------------------------------------------------------------------------------->
+
+
 I am a versatilist and easily adapt to different hats (Web Developer 🕸️, App Developer 📱 or beginner level ML Engineer 🤖) depending on what the project requires💡. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br>
+
+
+<!---------------------------------------------------------------------------------------------
+--------------------------------------------MORE ABOUT--------------------------------------------
+----------------------------------------------------------------------------------------------->
+
 
 <img align="right" alt="GIF" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/cool.gif" width="500" height="320"/>
   
@@ -16,7 +32,12 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   - 💬 &nbsp; Ask me about anything tech related, I am happy to help. :)
   - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh/).
   - 📝 &nbsp; Do Checkout my [Resume](https://drive.google.com/file/d/1NOMESkPcCcH-1qhhdJM9wS3W-f_gzXEP/view?usp=sharing). 
+  - 
   
+<!---------------------------------------------------------------------------------------------
+--------------------------------------------Languages And Tools--------------------------------
+----------------------------------------------------------------------------------------------->
+
 
 ### 🚀Languages And Tools:
 
@@ -28,15 +49,40 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   <a href="https://www.mysql.com" target="_blank"><img align="left" alt="MySQL" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/6.MySQL/mysql-original.svg"> </a>
   <a href="https://www.mongodb.com" target="_blank"><img align="left" alt="MongoDB" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/7.MongoDB/mongodb-original.svg"></a>
   <a href="https://www.postgresql.org" target="_blank"><img align="left" alt="PostgreSQL" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/7.1Postgreesql/postgresql-original.svg"></a>
+  <a href="https://mariadb.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/7.1MariaDB/maria.svg" align="left" alt="Maria" height='40px'/> </a>
   <a href="https://firebase.google.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/8.Firebase/firebase-plain.svg" alt="Firebase" height ="40px"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/9.Android/android-plain.svg"> </a>
-  <a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.Javascript/javascript-plain.svg"></a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/14.Nodejs/nodejs-plain-wordmark.svg" align="left" alt="nodeJS" height='40px'/> </a>
-  <a href="https://reactjs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/15.React/react-original.svg" align="left" alt="React" height='40px'/> </a>
-  <a href="https://angular.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/16.Angular/angularjs-plain.svg" align="left" alt="Angular" height='40px'/> </a>
+  <a href="https://material.io" target="_blank"> <img align="left" alt="Material UI" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/10.Material%20Ui/materialui-plain.svg"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img align="left" alt="HTML5" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/11.Html5/html5-plain.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/12.Css3/css3-plain.svg"></a>
+</br>
+<br>
+<p align="right">
+<a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.Javascript/javascript-plain.svg"></a>
+
+<a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="TypeScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.1Typescript/typescript-plain.svg"></a>
+
+<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/14.Nodejs/nodejs-plain-wordmark.svg" align="left" alt="nodeJS" height='40px'/> </a>    
+
+<a href="https://reactjs.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/15.React/react-original.svg" align="left" alt="React" height='40px'/> </a>
+
+<a href="https://angular.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/16.Angular/angularjs-plain.svg" align="left" alt="Angular" height='40px'/> </a>
+
+<a href="https://www.docker.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/17.Docker/docker-plain.svg" align="left" alt="Docker" height='40px'/> </a>
+
+<a href="https://www.heroku.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/18.Heroku/heroku-plain.svg" align="left" alt="Heroku" height='40px'/> </a>
+
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/19.AWS/amazonwebservices-plain-wordmark.svg" align="left" alt="AWS" height='40px'/> </a>
+</p>
 </br>
 
 <br> 
+
+
+<!---------------------------------------------------------------------------------------------
+--------------------------------------------GitHub Analytics-----------------------------------
+----------------------------------------------------------------------------------------------->
+
 
 ### ⚙️ GitHub Analytics:
 
@@ -46,6 +92,11 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav1152&layout=compact&theme=vue-dark"/>
   </a>
   </p>
+  
+
+<!---------------------------------------------------------------------------------------------
+--------------------------------------------Find Me--------------------------------------------
+----------------------------------------------------------------------------------------------->
 
 
 ### 📢 Find Me:
@@ -55,7 +106,11 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/pranav918)](https://leetcode.com/pranav918) &nbsp; &nbsp;
   [![Codechef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/pranav918)](https://www.codechef.com/users/pranav1152) &nbsp; &nbsp;
   [![CodeForces Badge](https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=CodeForces&logoColor=white&link=https://codeforces.com/profile/pranav1152)](https://codeforces.com/profile/pranav1152) &nbsp; &nbsp;
+  
 
+<!---------------------------------------------------------------------------------------------
+--------------------------------------------Connect With Me------------------------------------
+----------------------------------------------------------------------------------------------->
 
 
 ### 🤝 Connect With Me:
