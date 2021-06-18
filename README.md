@@ -32,7 +32,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   - 💬 &nbsp; Ask me about anything tech related, I am happy to help. :)
   - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh/).
   - 📝 &nbsp; Do Checkout my [Resume](https://drive.google.com/file/d/1NOMESkPcCcH-1qhhdJM9wS3W-f_gzXEP/view?usp=sharing). 
-  - 
   
 <!---------------------------------------------------------------------------------------------
 --------------------------------------------Languages And Tools--------------------------------
@@ -41,6 +40,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 
 ### 🚀Languages And Tools:
 
+   <a href="https://www.cprogramming.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/c-plain.svg" alt="C" height="40px"/> </a>
   <a href="https://www.cplusplus.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/1.Cplusplus/cplusplus-plain.svg" alt="C++" height="40px"/> </a>
   <a href="https://www.java.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/2.Java/java-plain.svg" alt="Java" height="40px"/> </a>
   <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/3.Kotlin/kotlin-original.svg" alt="Kotlin" height="40px"/> </a> 
@@ -52,13 +52,18 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   <a href="https://mariadb.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/7.1MariaDB/maria.svg" align="left" alt="Maria" height='40px'/> </a>
   <a href="https://firebase.google.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/8.Firebase/firebase-plain.svg" alt="Firebase" height ="40px"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/9.Android/android-plain.svg"> </a>
+  <a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/flutter-plain.svg"> </a>
   <a href="https://material.io" target="_blank"> <img align="left" alt="Material UI" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/10.Material%20Ui/materialui-plain.svg"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img align="left" alt="HTML5" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/11.Html5/html5-plain.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/12.Css3/css3-plain.svg"></a>
 </br>
 <br>
 <p align="right">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img align="left" alt="HTML5" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/11.Html5/html5-plain.svg"></a>
+  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/12.Css3/css3-plain.svg"></a>
+
 <a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.Javascript/javascript-plain.svg"></a>
+  
+<a href="https://jquery.com" target="_blank"><img align="left" alt="Jquery" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/jquery-plain.svg"></a>
 
 <a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="TypeScript" height ="40px" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/13.1Typescript/typescript-plain.svg"></a>
 
@@ -73,6 +78,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 <a href="https://www.heroku.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/18.Heroku/heroku-plain.svg" align="left" alt="Heroku" height='40px'/> </a>
 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/19.AWS/amazonwebservices-plain-wordmark.svg" align="left" alt="AWS" height='40px'/> </a>
+<a href="https://cloud.google.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/googlecloud-plain.svg" align="left" alt="Google Cloud" height='40px'/> </a>
 </p>
 </br>
 
