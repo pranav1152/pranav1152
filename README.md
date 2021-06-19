@@ -78,7 +78,12 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 <a href="https://www.heroku.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/18.Heroku/heroku-plain.svg" align="left" alt="Heroku" height='40px'/> </a>
 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/19.AWS/amazonwebservices-plain-wordmark.svg" align="left" alt="AWS" height='40px'/> </a>
+  
 <a href="https://cloud.google.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/googlecloud-plain.svg" align="left" alt="Google Cloud" height='40px'/> </a>
+  
+<a href="https://kubernetes.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/kubernetes-plain.svg" align="left" alt="Kubernetes" height='40px'/> </a>
+  
+<a href="https://www.gatsbyjs.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/gatsby-plain.svg" align="left" alt="Gatsby" height='40px'/> </a>
 </p>
 </br>
 
