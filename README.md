@@ -52,8 +52,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   <a href="https://mariadb.org" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/7.1MariaDB/maria.svg" align="left" alt="Maria" height='40px'/> </a>
   <a href="https://firebase.google.com" target="_blank"> <img align="left" src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/8.Firebase/firebase-plain.svg" alt="Firebase" height ="40px"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/9.Android/android-plain.svg"> </a>
-  <a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/flutter-plain.svg"> </a>
-  <a href="https://material.io" target="_blank"> <img align="left" alt="Material UI" height ="40px"  src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/10.Material%20Ui/materialui-plain.svg"> </a>
 </br>
 <br>
 <p align="right">
@@ -81,9 +79,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   
 <a href="https://cloud.google.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/googlecloud-plain.svg" align="left" alt="Google Cloud" height='40px'/> </a>
   
-<a href="https://kubernetes.io" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/kubernetes-plain.svg" align="left" alt="Kubernetes" height='40px'/> </a>
-  
-<a href="https://www.gatsbyjs.com" target="_blank"> <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Icons/gatsby-plain.svg" align="left" alt="Gatsby" height='40px'/> </a>
 </p>
 </br>
 
