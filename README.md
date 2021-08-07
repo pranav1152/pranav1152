@@ -31,7 +31,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   - 🎧 &nbsp;  I like **1307 songs accross 98 albums**. I have **160 playlists of awesome music.**
   - 💬 &nbsp; Ask me about anything tech related, I am happy to help. :)
   - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh/).
-  - 📝 &nbsp; Do Checkout my [Resume](https://drive.google.com/file/d/1NOMESkPcCcH-1qhhdJM9wS3W-f_gzXEP/view?usp=sharing). 
   
 <!---------------------------------------------------------------------------------------------
 --------------------------------------------Languages And Tools--------------------------------
