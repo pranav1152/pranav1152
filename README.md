@@ -104,7 +104,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 <!---------------------------------------------------------------------------------------------
 --------------------------------------------Find Me--------------------------------------------
 ----------------------------------------------------------------------------------------------->
-
+<!---------------------------------------------------------------------------------------------
 
 ### 📢 Find Me:
 
@@ -117,7 +117,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 
 <!---------------------------------------------------------------------------------------------
 --------------------------------------------Connect With Me------------------------------------
------------------------------------------------------------------------------------------------>
+
 
 
 ### 🤝 Connect With Me:
@@ -128,3 +128,5 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   [![Dev.to Badge](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/pranav918)](https://dev.to/pranav918) &nbsp;
   [![StackOverflow Badge](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13742657/pranav-deshmukh)](https://stackoverflow.com/users/13742657/pranav-deshmukh) &nbsp;
   [![Medium Badge](https://img.shields.io/badge/-medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@pranavdeshmukh918)](https://medium.com/@pranavdeshmukh918) &nbsp;
+
+----------------------------------------------------------------------------------------------->
