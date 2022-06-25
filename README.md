@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------------------->
 
 
-<h1 align="center">Hi, <img src="https://github.com/pranav1152/pranav1152/blob/main/Resources/Hi.gif" width="40px" /> I'm Pranav</h1>
+<h1 align="center">Hi, I'm Pranav</h1>
 <h3 align="center">A Passionate Software Developer who loves Competitive Programming</h3>
 
 
