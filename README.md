@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Pranav</h1>
-<h3 align="center">A Passionate Software Developer who loves Competitive Programming</h3>
+<h3 align="center">A Passionate Software Developer who loves Problem Solving</h3>
 
 
 <!---------------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@
 ----------------------------------------------------------------------------------------------->
 
 
-I am a versatilist and easily adapt to different hats (Web Developer 🕸️, App Developer 📱 or beginner level ML Engineer 🤖) depending on what the project requires💡. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Web Developer 🕸️, App Developer 📱 or Beginner level Cloud Engineer ☁️) depending on what the project requires💡. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br>
 
 
@@ -25,12 +25,15 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   
 ### 🧐 More About Me:
 
-  - 🏛 &nbsp;Currently Studing Computer Science in Pune Institute of Computer Technology.
-  - 💻 &nbsp;Currently learning Web Development & Data structures and Algorithms..
-  - 🤝 &nbsp;Open for collaborations in Android Development📱.
-  - 🎧 &nbsp;  I like **1307 songs accross 98 albums**. I have **160 playlists of awesome music.**
-  - 💬 &nbsp; Ask me about anything tech related, I am happy to help. :)
+  - 🏛 &nbsp;Currently Software Engineer at J P Morgan Chase & Co.
+  - 💻 &nbsp;Currently learning Backend Development & Data structures and Algorithms..
+  - 🤝 &nbsp;Open for collaborations in Web Developer 🕸️.
+  - 🎧 &nbsp;  I like **980 songs accross 81 albums** and have **110 playlists of awesome music.**
+  - 🌷 &nbsp; I love spending my free time doing **Gardening**.
+  - 💬 &nbsp; Ask me about anything tech related, I am happy to help :)
   - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh/).
+  
+  
   
 <!---------------------------------------------------------------------------------------------
 --------------------------------------------Languages And Tools--------------------------------
@@ -104,7 +107,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 <!---------------------------------------------------------------------------------------------
 --------------------------------------------Find Me--------------------------------------------
 ----------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------
 
 ### 📢 Find Me:
 
@@ -117,6 +119,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 
 <!---------------------------------------------------------------------------------------------
 --------------------------------------------Connect With Me------------------------------------
+----------------------------------------------------------------------------------------------->
 
 
 
@@ -129,4 +132,4 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   [![StackOverflow Badge](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13742657/pranav-deshmukh)](https://stackoverflow.com/users/13742657/pranav-deshmukh) &nbsp;
   [![Medium Badge](https://img.shields.io/badge/-medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@pranavdeshmukh918)](https://medium.com/@pranavdeshmukh918) &nbsp;
 
------------------------------------------------------------------------------------------------>
+
