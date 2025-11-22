@@ -125,7 +125,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 
 ### 🤝 Connect With Me:
 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/pranavdeshmukh)](https://www.linkedin.com/in/pranavdeshmukh) &nbsp;
   [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pranavdeshmukh1152@gmail.com)](mailto:pranavdeshmukh1152@gmail.com) &nbsp;
   [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pranav918.github.io)](https://pranav1152.github.io) &nbsp; &nbsp;
   [![Dev.to Badge](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/pranav918)](https://dev.to/pranav918) &nbsp;
